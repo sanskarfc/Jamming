@@ -1,6 +1,6 @@
 # Jamming
 
-Jamming is a React app for creating new playlists with Spotify.
+Jamming is a React app for creating and saving new playlists with Spotify.
 
 ## Objective
 
